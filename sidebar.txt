@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buy:home|Door43 (buy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buy|d43-buy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buy/archive/master.zip|d43-buy.zip]]
+
+**Recent Changes**
+{{changes>ns = buy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buy|Ethnologue data]]
+
